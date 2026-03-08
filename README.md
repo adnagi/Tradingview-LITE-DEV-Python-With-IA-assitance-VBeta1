@@ -5,3 +5,6 @@ Analysis: OK
 Bug SL: placement issue, so removed — only entry and TP remain.
 
 The api_keys.json file is automatically created when the Groq and DeepSeek API keys are entered.
+--- APP-Vbeta 1.3.py ---
+Add Divergence RSI strat 
+Patterns beta
