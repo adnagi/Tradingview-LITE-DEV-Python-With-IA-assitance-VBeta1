@@ -8,3 +8,5 @@ The api_keys.json file is automatically created when the Groq and DeepSeek API k
 --- APP-Vbeta 1.3.py ---
 Add Divergence RSI strat 
 Patterns beta
+--- APP-VBeta1.4.zip ---
+Add Backtest all strategy Winrate SL TP
