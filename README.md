@@ -10,3 +10,4 @@ Add Divergence RSI strat
 Patterns beta
 --- APP-VBeta1.4.zip ---
 Add Backtest all strategy Winrate SL TP
+
