@@ -1,3 +1,6 @@
+pip install Flask requests openai
+
+
 Function: OK
 Deepseek AI: OK
 Grok AI (use the correct/good model): OK
